@@ -16,3 +16,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
  * Support group: https://t.me/DroidianLinux
 
 ## Bugs and workarounds
+* Offline charging is broken and will boot the device.
+* GPS does not work.
+* Fingerprint does not work.
+* Only one sim can be used.
