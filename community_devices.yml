@@ -12,3 +12,4 @@ xiaomi_lavender:
   packages:
     - adaptation-droidian-lavender
     - adaptation-lavender-configs
+    - qtwayland5
