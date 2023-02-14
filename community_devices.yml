@@ -13,4 +13,10 @@ xiaomi_lavender:
     - adaptation-droidian-lavender
     - adaptation-lavender-configs
     - droidian-sysfs-torch
+    - linux-bootimage-4.4.192-xiaomi-lavender
+    - linux-bootimage-xiaomi-lavender
+    - linux-headers-4.4.192-xiaomi-lavender
+    - linux-headers-xiaomi-lavender
+    - linux-image-4.4.192-xiaomi-lavender
+    - linux-image-xiaomi-lavender
     - qtwayland5
