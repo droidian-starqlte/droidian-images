@@ -1,4 +1,4 @@
-Droidian on Xiaomi Redmi Note 7 (lavender)
+Droidian on Samsung Galaxy S9 (Qualcomm) (starqlte)
 ========
 
 Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based distribution for mobile devices. The goal of Droidian is to be able to run Mobian on Android phones.
@@ -8,9 +8,9 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 # Default password: 1234
 
 ## Installation
- * Download the latest build here: https://github.com/droidian-lavender/droidian-images/releases
+ * Download the latest build here: https://github.com/droidian-starqlte/droidian-images/releases
  * Unpack the zip file
- * Boot to fastboot
+ * Boot to TWRP and in the reboot section boot to fastboot
  * on Linux run flash_all.sh script:
     <pre><code>./flash_all.sh</code></pre>
  * on Windows run flash_all.bat

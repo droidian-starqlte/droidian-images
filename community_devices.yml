@@ -1,22 +1,16 @@
 # This file has been generated automatically by droidian-new-device
 
-# xiaomi lavender
-xiaomi_lavender:
+# samsung starqlte
+samsung_starqlte:
   type: image
   arch: arm64
   edition: phosh
   variant: phone
-  apilevel: 28
+  apilevel: 29
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-lavender
-    - adaptation-lavender-configs
+    - adaptation-droidian-starqlte
+    - adaptation-starqlte-configs
     - droidian-sysfs-torch
-    - linux-bootimage-4.4.192-xiaomi-lavender
-    - linux-bootimage-xiaomi-lavender
-    - linux-headers-4.4.192-xiaomi-lavender
-    - linux-headers-xiaomi-lavender
-    - linux-image-4.4.192-xiaomi-lavender
-    - linux-image-xiaomi-lavender
     - qtwayland5
