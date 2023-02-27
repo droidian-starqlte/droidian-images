@@ -10,6 +10,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 ## Installation
  * Download the latest build here: https://github.com/droidian-starqlte/droidian-images/releases
  * Unpack the zip file
+ * flash this [recovery.img](https://github.com/droidian-starqlte/android_kernel_samsung_sdm845/releases/download/starqlte/recovery.img)
  * Boot to TWRP and in the reboot section boot to fastboot
  * on Linux run flash_all.sh script:
     <pre><code>./flash_all.sh</code></pre>
