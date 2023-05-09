@@ -20,3 +20,23 @@ samsung_starqlte:
     - linux-image-4.9.186-samsung-starqlte
     - linux-image-samsung-starqlte
     - qtwayland5
+
+samsung_starqlte-cutie:
+  type: image
+  arch: arm64
+  edition: cutie
+  variant: phone
+  apilevel: 29
+  use_internal_repository: false
+
+  packages:
+    - adaptation-droidian-starqlte
+    - adaptation-starqlte-configs
+    - droidian-sysfs-torch
+    - linux-bootimage-4.9.186-samsung-starqlte
+    - linux-bootimage-samsung-starqlte
+    - linux-headers-4.9.186-samsung-starqlte
+    - linux-headers-samsung-starqlte
+    - linux-image-4.9.186-samsung-starqlte
+    - linux-image-samsung-starqlte
+    - qtwayland5
